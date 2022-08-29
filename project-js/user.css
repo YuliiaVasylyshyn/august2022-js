@@ -1,0 +1,49 @@
+body{
+    max-width: 1400px;
+    margin: auto;
+}
+.user{
+    width: 100%;
+    margin: auto;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    gap: 10%;
+}
+.buttonPost{
+    width: 90%;
+    height: 100px;
+    margin-top:20%;
+    background: lavender;
+}
+.posts{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5%;
+    width: 1400px;
+}
+.post{
+    width: 15%;
+    height: 400px;
+    margin-top: 5%;
+    flex-grow: 1;
+    background: lightblue;
+}
+.button-post{
+    color: darkolivegreen;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.text-post {
+    box-sizing: border-box;
+    padding: 10px;
+    text-align: justify;
+
+}
+.title-post {
+    box-sizing: border-box;
+    padding: 10px;
+    text-align: justify;
+}

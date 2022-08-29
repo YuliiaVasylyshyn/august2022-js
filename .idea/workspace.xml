@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b8bd8820-0e08-4503-8df2-bb1f73872859" name="Changes" comment="Java Script Project">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/august2022-js.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson1/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson8/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson8/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson9/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson9/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-js/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-js/post-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-js/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-js/user-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-js/user.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Cfqoy9URDVSUNHlgiEX5bPdamM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8bd8820-0e08-4503-8df2-bb1f73872859" name="Changes" comment="" />
+      <created>1659204187607</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659204187607</updated>
+      <workItem from="1659204190249" duration="116628000" />
+      <workItem from="1661718453672" duration="10438000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Java Script Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java Script Project" />
+  </component>
+</project>
