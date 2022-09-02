@@ -13,19 +13,19 @@ body{
     width: 700px;
     background: cornsilk;
 }
-.users__user{
+.users_one_user{
     width: 40%;
     height: 200px;
     margin: 4%;
     padding: 4%;
     background: lightblue;
 }
-.users__user-id {
+.users_one_user_id {
     display: flex;
     justify-content: center;
     color: forestgreen;
 }
-.users__user-name {
+.users_one_user_name {
     display: flex;
     justify-content: center;
     color: darkolivegreen;

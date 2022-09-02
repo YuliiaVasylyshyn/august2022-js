@@ -1,5 +1,3 @@
-// 1 отримати масив об'єктів з endpoint`а https://jsonplaceholder.typicode.com/users
-
 const users = fetch('https://jsonplaceholder.typicode.com/users').then(response => response.json())
     .then(res => res.map(item => {
 
@@ -7,14 +5,13 @@ const users = fetch('https://jsonplaceholder.typicode.com/users').then(response 
         user.className = 'users_one_user'
 
         const userId = document.createElement('p');
-        userId.className = 'users_oneuser_id'
+        userId.className = 'users_one_user_id'
         userId.innerText ='ID: '+ item.id
 
         const userName = document.createElement('p');
-        userName.className = 'users_oneuser_name'
+        userName.className = 'users_one_user_name'
         userName.innerText ='Name: '+ item.name
 
-        // 3 Додати кожному блоку кнопку/посилання , при кліку на яку відбувається перехід  на сторінку user-details.html, котра має детальну інфорацію про об'єкт на який клікнули
 
         const userLink = document.createElement('a');
         userLink.setAttribute('href',`user-details.html?${JSON.stringify(item.id)}`)
@@ -23,8 +20,6 @@ const users = fetch('https://jsonplaceholder.typicode.com/users').then(response 
         user.append(userId,userName,userLink)
         usersBlock.appendChild(user)
     }))
-
-//2 Вивести id,name всіх user в index.html. Окремий блок для кожного user.
 
 const usersBlock = document.createElement('div');
 usersBlock.className = 'users'

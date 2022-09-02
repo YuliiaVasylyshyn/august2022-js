@@ -5,39 +5,9 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Post information</title>
-    <style>
-        body{
-            max-width: 1400px;
-            margin: auto;
-        }
-        .postInformation{
-            margin-top: 2%;
-            background: lightblue;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-        }
-        .comments{
-            display: flex;
-            flex-wrap:wrap;
-            gap: 1%;
-        }
-        .comments_one_comment{
-            width: 320px;
-            height: 320px;
-            margin: auto;
-            margin-top: 1%;
-            background: lavender;
-            box-sizing: border-box;
-        }
-        h1 {
-            color: darkolivegreen;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-        }
-    </style>
+    <link rel="stylesheet" href="post.css">
+    <title>Post information with comments</title>
+
 </head>
 <body>
 <section class="postInformation">
@@ -66,12 +36,15 @@
 
                 const commentName = document.createElement('p')
                 commentName.innerText = item.name
+                commentName.className='commentName'
 
                 const commentBody =document.createElement('p')
                 commentBody.innerText = item.body
+                commentBody.className='commentBody'
 
                 const commentEmail = document.createElement('p')
                 commentEmail.innerText = item.email
+                commentEmail.className='commentEmail'
                 comment.append(commentName,commentBody,commentEmail)
 
                 document.querySelector('.comments').appendChild(comment)

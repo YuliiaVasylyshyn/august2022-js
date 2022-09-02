@@ -5,12 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8bd8820-0e08-4503-8df2-bb1f73872859" name="Changes" comment="Java Script Project">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/august2022-js.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson1/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lesson1/main.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lesson2/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lesson2/main.js" afterDir="false" />
@@ -27,12 +21,20 @@
       <change afterPath="$PROJECT_DIR$/lesson8/main.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lesson9/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lesson9/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-js/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-js/post-details.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-js/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-js/user-details.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-js/user.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectJS/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectJS/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectJS/post-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectJS/post.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectJS/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectJS/user-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectJS/users.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-js/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-js/post-details.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-js/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-js/user-details.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-js/user.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,20 +64,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -85,8 +87,16 @@
       <option name="presentableId" value="Default" />
       <updated>1659204187607</updated>
       <workItem from="1659204190249" duration="116628000" />
-      <workItem from="1661718453672" duration="10438000" />
+      <workItem from="1661718453672" duration="31067000" />
     </task>
+    <task id="LOCAL-00001" summary="Java Script Project">
+      <created>1661752038371</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661752038372</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
